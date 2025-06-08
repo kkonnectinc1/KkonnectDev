@@ -1,0 +1,12 @@
+{
+  "name": "cloud-dev-template",
+  "version": "1.0.0",
+  "description": "Multi-cloud dev and monitoring environment",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
